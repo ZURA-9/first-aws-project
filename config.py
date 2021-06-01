@@ -1,0 +1,6 @@
+customhost = "aniket-employees.chc0conzifvn.ap-south-1.rds.amazonaws.com"
+customuser = "zura"
+custompass = "12345678"
+customdb = "Aemployees"
+custombucket = "assemployee"
+customregion = "ap-south-1"
